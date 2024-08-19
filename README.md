@@ -8,7 +8,7 @@
 * I can type a little over 70 WPM
 * I got an 'A' in ECS Last year
 * I participated in the National Engineering Design Competition (at the national level) last year
-![MESA Logo]((https://nedc.mesausa.org/wp-content/uploads/2021/04/MESA-logo_no-tag.png))
+![MESA Logo](https://tse2.mm.bing.net/th?id=OIP._wH9mzt0t7Zcc8zoQQlfzAHaBw&pid=Api)
 
 ## Term 1
 
