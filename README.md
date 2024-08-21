@@ -7,6 +7,7 @@
 * Self-learned Python to a moderate level
 * I can type a little over 70 WPM
 * I got an 'A' in ECS (and every other class) last year
+* I am pretty good at blender and Adobie illustrate. 
 * I participated in the National Engineering Design Competition (at the national level) last year
  ![MESA Logo](https://tse2.mm.bing.net/th?id=OIP._wH9mzt0t7Zcc8zoQQlfzAHaBw&pid=Api)
 
