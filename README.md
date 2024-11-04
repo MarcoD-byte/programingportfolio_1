@@ -1,6 +1,6 @@
 # Marco DalCanto's Programming Portfolio 2024-25
 #### Contant Info
-[Email](marcodc314@gmail.com)
+<a href = "marcodc314@gmail.com"> marcodc314@gmail.com</a>
 
 #### Graduation
 * 2027
