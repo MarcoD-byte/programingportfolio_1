@@ -1,5 +1,6 @@
 # Marco DalCanto's Programming Portfolio 2024-25
-
+#### Contant Info
+[Email](marcodc314@gamil.com)
 #### Graduation
 * 2027
 * IB diploma (Hopefully)
