@@ -1,7 +1,8 @@
-# Marco DalCanto's Programming Portfolio 2024/25
+# Marco DalCanto's Programming Portfolio 2024-25
 #### Graduation
 * 2027
 * IB diploma (Hopefully)
+  yay
 
 ### My experience
 * Self-learned Python to a moderate level
