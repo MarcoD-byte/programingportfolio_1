@@ -1,8 +1,8 @@
 # Marco DalCanto's Programming Portfolio 2024-25
+
 #### Graduation
 * 2027
 * IB diploma (Hopefully)
-  yay
 
 ### My experience
 * Self-learned Python to a moderate level
@@ -13,5 +13,12 @@
  ![MESA Logo](https://tse2.mm.bing.net/th?id=OIP._wH9mzt0t7Zcc8zoQQlfzAHaBw&pid=Api)
 
 ## Term 1
+#### Etch-a-sketch
+This is a graphics project with keypress drawing controls. The app also has the ability to save images the user creates.
+![RunningAPp]()
+[Source Colde]()
+
 
 ## Term 2
+#### Calculator
+This is an original graphic fully functional custom calculator with custom buttons and UI.
