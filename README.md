@@ -2,6 +2,9 @@
 #### Contant Info
 <a href = "marcodc314@gmail.com"> marcodc314@gmail.com</a>
 
+## I have certified in 
+* [Computer programming](https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Exploring%20Computer%20Science_05102024.pdf)
+
 #### Graduation
 * 2027
 * IB diploma (Hopefully)
