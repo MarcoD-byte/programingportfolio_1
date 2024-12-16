@@ -2,8 +2,10 @@
 #### Contant Info
 <a href = "marcodc314@gmail.com"> marcodc314@gmail.com</a>
 
-## I have certified in 
-* ![Computer programming](https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Exploring%20Computer%20Science_05102024.pdf)
+## I have certificates in 
+* ![Programming 1]([https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Exploring%20Computer%20Science_05102024.pdf](https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Computer%20Programming%20I_12162024.pdf))
+* ![Exploring computer science](https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Exploring%20Computer%20Science_05102024.pdf)
+* ![Woods 1](https://github.com/MarcoD-byte/programingportfolio_1/blob/main/Certificate/Marco%20T%20Dalcanto_Woods%201_12182023.pdf)
 
 #### Graduation
 * 2027
